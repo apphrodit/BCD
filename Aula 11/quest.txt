@@ -1,0 +1,23 @@
+Quantas tabelas ele possui ?
+
+R: 5 tabelas
+
+Quantos Clientes Cadastrados ?
+
+R: 105 Clientes
+
+Quantas Pizzas Cadastradas ?
+
+R: 41 pizzas
+
+Quantas Pizzas o pedido n°3 possui ?
+
+R: 21 itens
+
+Qual Cliente fez o pedido n°3 ? 
+
+R: Adriano da Silva Ferreira
+
+Quais os nomes das Pizzas Do Pedido Nº 3
+
+R:

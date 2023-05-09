@@ -1,0 +1,5 @@
+select * from clientes
+
+DESCRIBE clientes;
+
+SELECT * FROM clientes WHERE nome - 'Adelcio Biazi'
